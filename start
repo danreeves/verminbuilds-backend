@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+sudo docker run -v ~/dev/verminbuilds-backend:/app -p 3000:3000 verminbuilds
